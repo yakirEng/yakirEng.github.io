@@ -1,4 +1,4 @@
-- title: Anti‑Drone Defense (vision + RF)
+- title: Face Recognition 
   repo: yakirEng/anti-drone-defense
   url: https://github.com/yakirEng/anti-drone-defense
   description: Real‑time multi‑sensor pipeline (vision+SIGINT) with distributed inference; achieved F1=0.97 in live deployments.

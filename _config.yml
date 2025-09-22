@@ -1,0 +1,18 @@
+title: "Yakir Hadad — CV/DL"
+description: "Computer Vision & Deep Learning — real-time vision systems, multispectral registration."
+theme: jekyll-theme-minimal
+logo: /assets/avatar.png
+show_downloads: false
+
+author: Yakir Hadad
+email: yakirhadad18@gmail.com
+url: https://yakirEng.github.io
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Navigation links shown by the minimal theme
+# (The minimal theme doesn't have a nav bar; these appear in the sidebar.)
+github:
+  is_project_page: false

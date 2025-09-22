@@ -1,14 +1,17 @@
 - title: Anti‑Drone Defense (vision + RF)
+  repo: yakirEng/anti-drone-defense
   url: https://github.com/yakirEng/anti-drone-defense
   description: Real‑time multi‑sensor pipeline (vision+SIGINT) with distributed inference; achieved F1=0.97 in live deployments.
   tags: [realtime, multi-gpu, detection, tracking, sensor-fusion]
 
 - title: Stereo Refueling 3D
+  repo: yakirEng/stereo-refueling-3d
   url: https://github.com/yakirEng/stereo-refueling-3d
-  description: Camera modeling, calibration, disparity, and depth estimation for mid‑air refueling; 3D perception under latency constraints.
+  description: Camera modeling, calibration, disparity & depth estimation for mid‑air refueling; 3D perception under latency constraints.
   tags: [stereo, multi-view, calibration, 3d, c++]
 
 - title: Phys‑LoFTR (Cross‑Spectral Registration)
+  repo: yakirEng/phys-loftr
   url: https://github.com/yakirEng/phys-loftr
-  description: Physics‑informed adaptation of LoFTR for multispectral/thermal image registration; large‑scale training pipelines.
+  description: Physics‑informed adaptation of LoFTR for multispectral/thermal registration; large‑scale training pipelines.
   tags: [registration, transformer, multispectral, thermal, pytorch]

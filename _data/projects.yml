@@ -1,16 +1,16 @@
-- title: Face Recognition 
-  repo: yakirEng/anti-drone-defense
+- title: PhySAT - Physically Enhanced multi-spectral SATellite image matching
+  repo: yakirEng/PhySAT
   url: https://github.com/yakirEng/anti-drone-defense
   description: Real‑time multi‑sensor pipeline (vision+SIGINT) with distributed inference; achieved F1=0.97 in live deployments.
   tags: [realtime, multi-gpu, detection, tracking, sensor-fusion]
 
-- title: Stereo Refueling 3D
+- title: Stereo Vision for fun
   repo: yakirEng/stereo-refueling-3d
   url: https://github.com/yakirEng/stereo-refueling-3d
   description: Camera modeling, calibration, disparity & depth estimation for mid‑air refueling; 3D perception under latency constraints.
   tags: [stereo, multi-view, calibration, 3d, c++]
 
-- title: Phys‑LoFTR (Cross‑Spectral Registration)
+- title: Track The Missile
   repo: yakirEng/phys-loftr
   url: https://github.com/yakirEng/phys-loftr
   description: Physics‑informed adaptation of LoFTR for multispectral/thermal registration; large‑scale training pipelines.
